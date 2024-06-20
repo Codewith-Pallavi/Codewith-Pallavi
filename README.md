@@ -1,5 +1,5 @@
 ## Hi there 👋Pallavi
-
+[![](https://visitcount.itsvg.in/api?id=codewith-pallavi&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently studying **Computer Applications **<br>🌱 I’m currently learning **Web Development**<br>💬 Ask me about Java ,C ,C++,PHP ,Html & CSS<br>📫 How to reach me ranacoderunner666@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/Codewith-Pallavi<br>
 
@@ -15,6 +15,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codewith-pallavi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
